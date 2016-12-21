@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.row{
+  display: flex;
+}
+
+ul{
+  display: block;
+  color: #fff;
+  text-align: left;
+}
+
+
